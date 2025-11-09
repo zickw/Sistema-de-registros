@@ -1,7 +1,7 @@
 # Propuesta de Mantenimiento — Sistema de Registro de Usuarios
 
 ## Tipo de mantenimiento
-Correctivo y Perfectivo.
+Correctivo y Perfectivo
 
 ## Objetivo
 Asegurar la estabilidad y evolución del sistema mediante correcciones y mejoras continuas.
