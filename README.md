@@ -1,7 +1,8 @@
 # Sistema de Registro de Usuarios — Caso 1
 
-# Sistema-de-registros
-El proyecto implementa un sistema de registro y gestión de usuarios con control de versiones y documentación en Markdown.
+## Descripción
+Sistema que gestiona el registro, autenticación y administración de usuarios (roles: Administrador, Docente y Estudiante).
+
 
 ## Objetivos
 - Garantizar integridad y seguridad de los datos.
