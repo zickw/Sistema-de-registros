@@ -13,10 +13,3 @@ Asegurar la estabilidad y evolución del sistema mediante correcciones y mejoras
 ### Perfectivo
 - Mejorar la interfaz de usuario.
 - Optimizar consultas SQL y tiempos de respuesta.
-
-## Flujo de trabajo
-1. Registrar incidencia en GitHub.
-2. Crear rama `hotfix/` o `feature/` según el caso.
-3. Aplicar corrección o mejora.
-4. Ejecutar pruebas.
-5. Merge a `main` y despliegue con commit descriptivo.
