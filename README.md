@@ -19,7 +19,7 @@ Consultar la carpeta `pruebas/PlanPruebas.docx`.
 Tipo: Correctivo y Perfectivo.
 Consultar la carpeta `mantenimiento/`.
 
-## Evidencia
+## Evidencias
 Consultar la carpeta `evidencias/`.
 
 ## Reflexión sobre el control de versiones
